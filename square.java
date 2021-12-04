@@ -12,6 +12,5 @@ class square{
         else{
             System.out.println("The Input is out of the range");
         }
-
     }
 }
